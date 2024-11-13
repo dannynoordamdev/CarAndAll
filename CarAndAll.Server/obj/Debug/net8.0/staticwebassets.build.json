@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "Z9sCViSa9lTdhLjVZIz0x92dirAbSnSExEFcuoUv6dU=",
+  "Source": "CarAndAll.Server",
+  "BasePath": "_content/CarAndAll.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\elpab\\Desktop\\CarAndAll\\carandall.client\\carandall.client.esproj",
+      "Version": 2,
+      "Source": "carandall.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
