@@ -1,6 +1,0 @@
-@CarAndAll.Server_HostAddress = http://localhost:5081
-
-GET {{CarAndAll.Server_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

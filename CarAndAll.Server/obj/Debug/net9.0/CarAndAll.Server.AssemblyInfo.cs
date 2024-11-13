@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarAndAll.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce6441e0f3363dac0330d4ee2c332e65cda5e6c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c25aab78836103942ba79bba68dc390bd973ad3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarAndAll.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarAndAll.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
