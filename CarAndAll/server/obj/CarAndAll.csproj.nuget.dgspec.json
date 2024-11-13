@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elpab\\Desktop\\CarAndAll\\CarAndAll\\CarAndAll.csproj": {}
+    "C:\\Users\\elpab\\Desktop\\CarAndAll\\CarAndAll\\server\\CarAndAll.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elpab\\Desktop\\CarAndAll\\CarAndAll\\CarAndAll.csproj": {
+    "C:\\Users\\elpab\\Desktop\\CarAndAll\\CarAndAll\\server\\CarAndAll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elpab\\Desktop\\CarAndAll\\CarAndAll\\CarAndAll.csproj",
+        "projectUniqueName": "C:\\Users\\elpab\\Desktop\\CarAndAll\\CarAndAll\\server\\CarAndAll.csproj",
         "projectName": "CarAndAll",
-        "projectPath": "C:\\Users\\elpab\\Desktop\\CarAndAll\\CarAndAll\\CarAndAll.csproj",
+        "projectPath": "C:\\Users\\elpab\\Desktop\\CarAndAll\\CarAndAll\\server\\CarAndAll.csproj",
         "packagesPath": "C:\\Users\\elpab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elpab\\Desktop\\CarAndAll\\CarAndAll\\obj\\",
+        "outputPath": "C:\\Users\\elpab\\Desktop\\CarAndAll\\CarAndAll\\server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elpab\\AppData\\Roaming\\NuGet\\NuGet.Config",
