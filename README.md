@@ -23,3 +23,9 @@ dotnet workload update
 
 ### 5. Herstart je IDE
 Na het bijwerken van de workloads, herstart je je IDE (bijv. Visual Studio of Visual Studio Code) om de wijzigingen toe te passen.
+
+
+# Heb je een .Netruntime error met versie verschil?
+druk ctrl + shift + p -> dan op de bovenste optie ".net install tool" en voer in 8.0 en enter.
+
+Dan kom je op de zelfde .net runtime als dit project!!!!
